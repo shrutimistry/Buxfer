@@ -1,0 +1,7 @@
+add_group herminegrangerissmart
+add_group harry
+add_group fredandgeorgeweasley
+list_groups
+add_user herminegrangerissmart ronweasley2ron
+remove_user herminegrangerissmart ronweasley2ron
+remove_user herminegrangerissmart dneuser
